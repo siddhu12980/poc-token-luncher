@@ -12,7 +12,7 @@ import "@solana/wallet-adapter-react-ui/styles.css";
 import { LunchPad } from "./LunchPad";
 
 const NEXT_A_SOL_URL =
-  "https://solana-devnet.g.alchemy.com/v2/K6aCvewBuSxJm_ThXkWGwiDNX5K2svlo";
+ 
 
 const Home = () => {
   return (
